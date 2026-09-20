@@ -29,8 +29,8 @@
 
 First-year **Computer Science** student at the **University of Warwick**, working towards research in **federated learning** and **ML systems**.
 
-- 🛰️ Prior research intern at the **Cambridge Machine Learning Systems Lab** (Prof. Nicholas Lane) — compressed parameter sharing in FL for LEO satellite networks.
-- 🔐 Interested in **trustworthy & robust FL** and **cybersecurity** — where ML meets adversaries.
+- 🛰️ Prior research intern at the **Cambridge Machine Learning Systems Lab** (Prof. Nicholas Lane) - compressed parameter sharing in FL for LEO satellite networks.
+- 🔐 Interested in **trustworthy & robust FL** and **cybersecurity** - where ML meets adversaries.
 - 🧱 I like building things from first principles: transformers from scratch, robust aggregation, anomaly detectors.
 - 🎯 Currently: interning at **Vyntelligence** and building out my ML portfolio.
 
@@ -41,7 +41,7 @@ First-year **Computer Science** student at the **University of Warwick**, workin
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Robust Federated Learning](https://github.com/avani2602/FL-Security)** | Poisoning attacks vs. robust aggregation (FedMedian / TrimmedAvg / Krum) — an attack × defence matrix. | `Flower` `PyTorch` |
+| **[Robust Federated Learning](https://github.com/avani2602/FL-Security)** | Poisoning attacks vs. robust aggregation (FedMedian / TrimmedAvg / Krum) - an attack × defence matrix. | `Flower` `PyTorch` |
 | **[ML Intrusion Detection](https://github.com/avani2602/intrusion-detection)** | Hybrid supervised + anomaly detector on CIC-IDS2017 with a Streamlit explainability dashboard. | `scikit-learn` `TensorFlow` |
 
 <br/>
@@ -86,7 +86,7 @@ First-year **Computer Science** student at the **University of Warwick**, workin
   <img src="https://streak-stats.demolab.com/?user=avani2602&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Snake contribution animation — needs the GitHub Action set up (see setup notes) -->
+<!-- Snake contribution animation - needs the GitHub Action set up (see setup notes) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/avani2602/avani2602/output/github-snake-dark.svg" alt="snake animation" />
 </p>
