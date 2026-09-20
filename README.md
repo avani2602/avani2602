@@ -78,8 +78,8 @@ First-year **Computer Science** student at the **University of Warwick**, workin
 ## 📈 GitHub in numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=avani2602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avani2602&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-img.vercel.app/api?username=avani2602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-img.vercel.app/api/top-langs/?username=avani2602&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
