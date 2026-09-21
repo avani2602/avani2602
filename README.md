@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&lines=First-year+CS+%40+University+of+Warwick;Researching+trustworthy+federated+learning;Building+ML+systems+from+scratch;Poking+at+network+security" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&lines=Second-year+CS+%40+University+of+Warwick;Researching+trustworthy+federated+learning;Building+ML+systems+from+scratch;Poking+at+network+security" alt="Typing SVG" />
   </a>
 </p>
 
